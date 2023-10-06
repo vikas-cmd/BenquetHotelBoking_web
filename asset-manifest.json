@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BenquetHotelBoking_web/static/css/main.1216df4c.css",
+    "main.js": "/BenquetHotelBoking_web/static/js/main.838d1e2f.js",
+    "static/js/787.c9cb0fb8.chunk.js": "/BenquetHotelBoking_web/static/js/787.c9cb0fb8.chunk.js",
+    "static/media/Slider-Main.jpg": "/BenquetHotelBoking_web/static/media/Slider-Main.2b12b0ea2cf2c765e66f.jpg",
+    "static/media/Map.png": "/BenquetHotelBoking_web/static/media/Map.ffcd28405b52dad511aa.png",
+    "index.html": "/BenquetHotelBoking_web/index.html",
+    "main.1216df4c.css.map": "/BenquetHotelBoking_web/static/css/main.1216df4c.css.map",
+    "main.838d1e2f.js.map": "/BenquetHotelBoking_web/static/js/main.838d1e2f.js.map",
+    "787.c9cb0fb8.chunk.js.map": "/BenquetHotelBoking_web/static/js/787.c9cb0fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1216df4c.css",
+    "static/js/main.838d1e2f.js"
+  ]
+}
