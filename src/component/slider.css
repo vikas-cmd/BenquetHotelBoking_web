@@ -1,0 +1,38 @@
+.sliderr{
+    display: flex;
+    align-items: center;
+    
+    background-image: url('./Slider-Main.jpg');
+    height: 90vh;
+    background-size: cover;
+    
+    
+}
+.slider-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0px;
+    >button{
+        width: 14vw;
+        background-color: rgb(231, 44, 1);
+        border-radius: 50px;
+        height: 9vh;
+        border: none;
+        color: white;
+        font-weight: 700;
+        font-size: medium;
+        padding: 10px;
+        
+
+    }
+    >p{
+        font-size: 6vh;
+        >span{
+            font-weight: 800;
+            color: rgb(231, 44, 1);
+        }
+        
+    }
+    margin-left: 100px;
+}

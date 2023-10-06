@@ -1,0 +1,41 @@
+.contact_us{
+    display: flex;
+    background-color:rgba(239, 222, 190, 0.795) ;
+    justify-content: center;
+    
+    gap:20px;
+    padding: 20px;
+}
+.verticle-line{
+    
+    background-color: black;
+    width: 1px;
+    height: 33vh;
+   
+}
+.col-2{
+    line-height: 1;
+    >.heading{
+        font-size: medium;
+    }
+}
+.col-3{
+    line-height: 1;
+    
+
+}
+.forms{
+   
+    >input{
+        padding: 3px;
+        margin-bottom: 5px;
+    }
+    >button{
+        width: 86%;
+        background-color: red;
+        padding: 3px;
+        border: none;
+        height: 3vh;
+        cursor: pointer;
+    }
+}

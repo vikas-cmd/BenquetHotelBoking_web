@@ -1,0 +1,24 @@
+.subscriber{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./Map.png');
+    
+}
+.headings{
+    line-height: 0.8;
+}
+.counter{
+    display: flex;
+    gap: 40px;
+    >div{
+        line-height: 10px;
+    }
+    >div h1{
+        color: red;
+    }
+    >div p{
+        font-size: x-large;
+    }
+
+}

@@ -1,0 +1,97 @@
+
+
+.product{
+    width: 100%;
+    
+    position: relative;
+    border: 2px solid rgba(240, 237, 237, 0.966);
+    border-radius: 10px;
+   
+   
+    
+  
+    
+    
+    
+    
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+    
+}
+.comment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    background-color: rgba(240, 237, 237, 0.966);
+    height: 20vh;
+    
+    
+    
+    
+}
+
+
+
+
+.post{
+    color: rgba(103, 101, 101, 0.858);;
+    
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+    height: 50%;
+    width: 80%;
+    background-color:white;
+
+    >p{
+        margin-left: 8vw;
+        color: rgba(103, 101, 101, 0.858);
+        font-weight: 500;
+        >span{
+            color: rgba(7, 164, 164, 0.961);
+            font-weight: 500;
+        }
+    }
+}
+
+.post_info{
+    display: flex;
+    flex-direction: column;
+    line-height: 0%;
+    margin-left: 3vw;
+    
+    >.button{
+        border: none;
+        background-color: transparent;
+        color:rgba(7, 164, 164, 0.961);
+        cursor: pointer;
+       
+    
+    }
+    
+}
+
+.text{
+    line-height: 5px;
+}
+.line-height{
+    line-height: 1vh;
+    >h2{
+        color: black;
+    }
+    >h3{
+        color: rgb(63, 244, 163);
+        
+
+    }
+    
+    
+
+}

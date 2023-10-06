@@ -1,0 +1,43 @@
+.Header_Top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(222, 249, 249, 0.92);
+    width: 100%;
+    height:8vh ;
+    
+    
+}
+.social_media_icon{
+    display: flex;
+    margin-left: 8vw;
+    >img{
+        padding: 5px;
+        cursor: pointer;
+    }
+    
+
+}
+.nav_tabs{
+    display: flex;
+    margin-right: 10vw;
+    
+    
+}
+.border{
+    border-right: 1px solid black ;
+    
+
+    
+}
+.nav_tabs-tab{
+    display: flex;
+    gap: 1vw;
+    cursor: pointer;
+    
+    font-weight: 600;
+    
+   
+    padding: 10px;
+
+}

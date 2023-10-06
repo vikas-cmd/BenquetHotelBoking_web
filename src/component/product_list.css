@@ -1,0 +1,47 @@
+
+.products-heading{
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 0;
+    >h4{
+        margin-bottom: 7vh;
+        color: rgba(65, 63, 63, 0.959);
+    }
+    >button{
+        background-color: rgb(255, 38, 0);
+        color: white;
+        border: none;
+        border-radius: 50px;
+        height: 45px;
+        width: 200px;
+        margin: 8vh;
+        font-weight: 700;
+        font-size: medium;
+        padding: 10px;
+    }
+
+    .border-line{
+       background-color: rgba(103, 101, 101, 0.858);
+       height: 1px;
+       width: 100%;
+       margin: 0 8px;
+    }
+    
+    
+}
+.product_list{
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 0 8px;
+    width: 100%;
+    >div{
+        width: 28%;
+
+    }
+    
+}

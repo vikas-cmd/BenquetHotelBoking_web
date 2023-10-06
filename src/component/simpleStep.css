@@ -1,0 +1,43 @@
+.simple_step-heading{
+
+    >h1{text-align: center;}
+}
+.simple_steps{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-left: 20px;
+    >.img{
+        width: 500px;
+    }
+}
+.step1{
+    display: flex;
+    flex-direction: column;
+    >.icon{
+        margin:0 8vw
+    }
+    
+
+}
+.line{
+    width: 180px;
+   
+    background-color: red;
+    border: 1px solid red;
+}
+.line2{
+    width: 180px;
+   
+    background-color:orange;
+    border: 1px solid orange;
+}
+.line3{
+    width: 180px;
+   
+    background-color:rgba(82, 204, 244, 0.897);
+    border: 1px solid rgba(82, 204, 244, 0.897);
+}
+.desc{
+    margin:0 8vw
+}
